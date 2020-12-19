@@ -8,6 +8,8 @@ TODO，control flow pic show
 
 ## 信号处理
 
+![](../images/signal.png)
+
 信号处理涉及两个 syscall:
 
 * tigkill
